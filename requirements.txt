@@ -1,0 +1,13 @@
+requests
+httpx
+beautifulsoup4
+lxml
+faker
+cloudscraper
+pyfiglet
+colorama
+python-cfonts
+pyTelegramBotAPI
+fake-useragent
+requests-toolbelt
+user_agent
